@@ -39,9 +39,9 @@ Structured layout into functional blocks:
 - Placed decoupling capacitors close to IC pins to minimize switching noise
 - Kept control signals (EN, PS, PG) isolated from switching nodes
 
+Images:
+![Buck](https://github.com/user-attachments/assets/d8782bf6-5d06-4de3-b4f3-fd31c03d19cc)
 
 
-Minimizing switching loop area around the regulator
-Tight placement of input/output capacitors
-Strategic use of vias for grounding and current return paths
-Clear separation between power and low-noise control signals
+
+
